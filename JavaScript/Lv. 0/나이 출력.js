@@ -2,4 +2,4 @@ function solution(age) {
   return (new Date()).getFullYear() - age;
 }
 
-//https://school.programmers.co.kr/learn/courses/30/lessons/120820
+// https://school.programmers.co.kr/learn/courses/30/lessons/120820
